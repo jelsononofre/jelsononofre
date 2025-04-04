@@ -7,7 +7,7 @@ Currently working with PHP, Laravel and VueJS.
 
 Passionate about building dynamic and scalable web applications.
 
-Experienced in HTML, CSS, JavaScript, Node.js, Selenium and frameworks like Bootstrap.
+Experienced in HTML, CSS, JavaScript, Node.js, Puppeteer, Selenium, Python and frameworks like Bootstrap.
 
 Work with databases and tools such as PostgreSQL, MongoDB, MySQL, Redis, Git and Docker.
 
