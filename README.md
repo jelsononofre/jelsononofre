@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jelsononofre/jelsononofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jelson Onofre, a 25-year-old full-stack developer from São Paulo, Brazil.
 
-Here are some ideas to get you started:
+## 💻 About Me
+Currently working with PHP, Laravel and VueJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building dynamic and scalable web applications.
+
+Experienced in HTML, CSS, JavaScript, Node.js, Selenium and frameworks like Bootstrap.
+
+Work with databases and tools such as PostgreSQL, MongoDB, MySQL, Redis, Git and Docker.
+
+Also skilled in web crawling to extract data from various online platforms.
